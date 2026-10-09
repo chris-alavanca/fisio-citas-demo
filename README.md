@@ -31,7 +31,7 @@ English and Spanish (EN/ES toggle), prices in EUR.
 
 ## Run it locally
 
-Needs Node.js 20 or later.
+Needs Node.js 20.19 or later (or 22.12 or later).
 
 ```
 npm install
